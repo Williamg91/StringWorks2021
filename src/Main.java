@@ -158,8 +158,7 @@ public class Main {
         }
         System.out.println("længste sætning: "+longest);
     }
-
-
+    
     public static void printIfPalindrome(String s){
         boolean res = true;
         String rev= "";
